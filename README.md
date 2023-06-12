@@ -4,7 +4,7 @@
     <img src="assets/transperent.png" alt="logo" width="150" height="150">
   </a>
 
-  <h3 align="center">passctlr</h3>
+  <h3 align="center">passctl</h3>
 
   <p align="center">
     Simple, minimal and secure password manager
