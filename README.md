@@ -24,8 +24,8 @@ Server acts like an database and stores the **AES-256** encrypted data, all encr
 so an attacker won't be able to steal any data if they hack into the server. 
 
 ### Repos
-[API Server Repo](https://github.com/passctl/server)
-[NodeJS CLI Client](https://github.com/passctlr/node-client)
+- [API Server Repo](https://github.com/passctl/server)
+- [NodeJS CLI Client](https://github.com/passctlr/node-client)
 
 ## Badges
 ![License][mit]
