@@ -13,12 +13,12 @@
   </p>
 </div>
 
-## Built with
+### Built with
 [![NodeJS][nodejs]][nodejs-url]
 [![Express][express]][express-url]
 [![Axios][axios]][axios-url]
 
-## About
+### About
 Passctl is an open source, free, minimal, simple and secure commad-line password manager. Passctl have an server-client structure.
 Server acts like an database and stores the **AES-256** encrypted data, all encryption is made on the client
 so an attacker won't be able to steal any data if they hack into the server. 
@@ -27,7 +27,7 @@ so an attacker won't be able to steal any data if they hack into the server.
 - [API Server Repo](https://github.com/passctl/server)
 - [CLI Client](https://github.com/passctl/cli-client)
 
-## Badges
+### Badges
 ![License][mit]
 ![Developer][dev]
 <!-- [![Website][web]][web-url] -->
