@@ -25,7 +25,7 @@ so an attacker won't be able to steal any data if they hack into the server.
 
 ### Repos
 - [API Server Repo](https://github.com/passctl/server)
-- [NodeJS CLI Client](https://github.com/passctlr/node-client)
+- [CLI Client](https://github.com/passctlr/cli-client)
 
 ## Badges
 ![License][mit]
