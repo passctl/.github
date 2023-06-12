@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/passctl">
     <img src="assets/transperent.png" alt="logo" width="150" height="150">
   </a>
 
@@ -9,7 +9,7 @@
   <p align="center">
     Simple, minimal and secure password manager
     <br />
-    <a href="https://github.com/orgs/Awesome-Password-Manager/repositories"><strong>Check out the repos!</strong></a>
+    <a href="https://github.com/orgs/passctl/repositories"><strong>Check out the repos!</strong></a>
   </p>
 </div>
 
