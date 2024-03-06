@@ -1,6 +1,6 @@
-# passctl | command-line password manage
-passctl is a simple, minimal and secure CLI password manager with its on server
+# 🔑 passctl
+Simple and secure self-hosted command-line password manager
 
-## Get Started
-- ### [🚀 Install the passctl client](https://github.com/passctl/client)
-- ### [🔌 Host your own server](https://github.com/passctl/server)
+### 📑 Repos
+- [Server](https://github.com/passctl/server)
+- [Client](https://github.com/passctlr/client)
